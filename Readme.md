@@ -57,12 +57,8 @@ The crack time estimation assumes an attacker is using a distributed GPU cluster
 
 <img width="1037" height="391" alt="Screenshot 2026-02-19 225625" src="https://github.com/user-attachments/assets/85f49ed1-ef60-4e9f-a604-19e6b78f31d2" />
 
-🌐 Deployment (GitHub Pages)
-This project is optimized for GitHub Pages:
-Upload index.html to a public GitHub repository.
-Go to Settings > Pages.
-
-Select the main branch and click Save.
+🌐 Deployment 
+We are facing Technical Difficulties to Deploy Our Project.
 
 
 
