@@ -55,6 +55,8 @@ $R$: The size of the character pool (range) used (e.g., 26 for lowercase, 62 for
 The crack time estimation assumes an attacker is using a distributed GPU cluster or custom ASIC hardware capable of approximately $10^{11}$ (100 Billion) guesses per second. This represents a sophisticated modern threat level.
 
 
+<img width="1037" height="391" alt="Screenshot 2026-02-19 225625" src="https://github.com/user-attachments/assets/85f49ed1-ef60-4e9f-a604-19e6b78f31d2" />
+
 🌐 Deployment (GitHub Pages)
 This project is optimized for GitHub Pages:
 Upload index.html to a public GitHub repository.
