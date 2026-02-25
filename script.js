@@ -62,7 +62,7 @@ input.addEventListener('input', () => {
     const totalCombos = Math.pow(pool || 1, val.length);
     const score = val.length > 0 ? Math.floor(Math.log2(totalCombos)) : 0;
     
-    scoreText.innerText = "Score: " + score;
+    scoreText.innerText = "Score: " + score + "-Bits";
 
     // Assume an attacker does 100 billion guesses per second
     const seconds = totalCombos / 100000000000;
@@ -101,4 +101,5 @@ function updateStrengthBarUI(score) {
     barFill.style.backgroundColor = color;
     strengthLabel.innerText = text;
     strengthLabel.style.color = color;
+
 }
