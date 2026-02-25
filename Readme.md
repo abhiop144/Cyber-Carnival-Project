@@ -3,9 +3,11 @@
 ![Color Feedback](https://img.shields.io/badge/Dynamic-Color%20Feedback-orange)
 ![Entropy](https://img.shields.io/badge/Entropy-Based-Strength-blue)
 ![Crack Time](https://img.shields.io/badge/Crack%20Time-Estimation-red)
+![HTML](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![Character Analysis](https://img.shields.io/badge/Character%20Class-Analysis-purple)
 ![Security Suggestions](https://img.shields.io/badge/Actionable-Security%20Tips-green)
 ![Privacy First](https://img.shields.io/badge/Privacy-Local%20Processing-lightgrey)
+
 
 
 *Presented to the judges and various students present at VIT BHOPAL UNIVERSITY FOR CYBER CARNIVAL'26 HACKATHON*  
