@@ -62,7 +62,7 @@ Go to Settings > Pages.
 
 Select the main branch and click Save.
 
-This tool will be live at https://abhiop144.github.io/password_analyser_project/
+
 
 🛠️ Built With
 
